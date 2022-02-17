@@ -1,5 +1,6 @@
-## Parallax Effect For 2D Games With React <img align="right" width="480" src="public/parallax.gif" />
+<img align="right" width="640" src="public/parallax.gif" />
 
+## Parallax Effect For 2D Games With React
 
 [Parralx Effect](https://react-parallax-effect.vercel.app/) project created by following the tutorial [Parallax in JavaScript Games](https://www.youtube.com/watch?v=Mg7ibYWhjPI) from [Franks laboratory](https://www.youtube.com/c/Frankslaboratory/videos).
 
